@@ -1,0 +1,26 @@
+@use 'utils' as *;
+
+:root {
+  --rpx: .0625rem;
+	--accent-color: #658D49;
+	--text-color: #5B5D5E;
+	--text-color-alt: #969696;
+	--text-light-color: #ffffff;
+
+	--button-color: #C43F48;
+
+	--background-color: #F0F0EB;
+	
+	--header-background-color: #fff;
+	--viability-image-background-color: #fff;
+	--for-whom-background-color: #888C65;
+
+	--border-radius: calc(20 / 16)rem;
+	--border-radius-small: rem(8);
+	
+	--container-padding-x: rem(20);
+	--container-width: rem(1660);	
+
+	--section-padding-y: rem(80);
+}
+

@@ -1,0 +1,16 @@
+@use 'fonts';
+@use 'variables';
+@use 'media';
+@use 'normalize';
+@use 'globals';
+
+@use 'utils';
+
+
+.header {
+	width: 500px;
+	height: 500px;
+	background-color: cyan;
+	border-radius: var(--border-radius);
+	font-size: 16--rpx;
+}
