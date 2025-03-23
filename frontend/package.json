@@ -15,6 +15,8 @@
   },
   "devDependencies": {
     "@csstools/custom-units": "^0.1.1",
-    "postcss": "^8.5.3"
+    "fs": "0.0.1-security",
+    "postcss": "^8.5.3",
+    "postcss-pxtorem": "^6.1.0"
   }
 }
